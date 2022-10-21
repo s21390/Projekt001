@@ -1,0 +1,15 @@
+listaPrzedmiotow
+Lista osob  : 
+Człowiek o imieniu i nazwisku Osoba{imie='Dominik', nazwisko='Stypułkowski', adres_zamieszkania='ul.Głębocka 5e', pesel=13654724864, data_urodzenia=24.09.1997}
+Człowiek o imieniu i nazwisku Osoba{imie='Aleksandra', nazwisko='Hermanowska', adres_zamieszkania='Szosa 13', pesel=1451537586, data_urodzenia=20.10.1997}
+Pomieszczenia 
+Pomieszczenie{numer=5} : Nikt nie wynajmuje 
+Pomieszczenie{numer=7} : Nikt nie wynajmuje 
+Pomieszczenie{numer=8} : Nikt nie wynajmuje 
+Pomieszczenie{numer=1} wynajmuje : Dominik Stypułkowski
+Pomieszczenie{numer=4} wynajmuje : Aleksandra Hermanowska
+Pomieszczenie{numer=9} wynajmuje : Dominik Stypułkowski
+Pomieszczenie{numer=2} wynajmuje : Aleksandra Hermanowska
+Pomieszczenie{numer=6} : Nikt nie wynajmuje 
+Pomieszczenie{numer=10} : Nikt nie wynajmuje 
+Pomieszczenie{numer=3} : Nikt nie wynajmuje 
